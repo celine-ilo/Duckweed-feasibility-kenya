@@ -1,0 +1,18 @@
+parameter,value_or_range,basis
+Herd size,50 head,Site records
+Fresh manure production,150 kg d⁻¹,Site records (3 kg head⁻¹ d⁻¹)
+Nitrogen content of fresh manure,0.4–0.6 %,Assumed; requires site measurement
+Nitrogen flux available to pond,0.60–0.90 kg N d⁻¹,Calculated
+Areal nitrogen uptake rate,1.2 g N m⁻² d⁻¹,"Lambert et al. (2025), pilot scale"
+Nitrogen-limited pond area,500–750 m²,Calculated
+Dry-matter productivity,2.19 g m⁻² d⁻¹,"Lambert et al. (2025), 8 t ha⁻¹ yr⁻¹"
+Crude-protein productivity,0.77 g m⁻² d⁻¹,"Lambert et al. (2025), 2.8 t ha⁻¹ yr⁻¹"
+Dry biomass output,1.1–1.6 kg d⁻¹,Calculated
+Crude-protein output,0.38–0.58 kg d⁻¹,Calculated
+Protein supplied per head,8–12 g head⁻¹ d⁻¹,Calculated
+Open-water evaporation,4–6 mm d⁻¹,Assumed; cf. Mutiga et al. (2010)
+Evaporation beneath a closed mat,2.7–4.0 mm d⁻¹,"Oron et al. (1985), one-third reduction"
+Mean rainfall,1.9 mm d⁻¹ (700 mm yr⁻¹),Basin mean
+Gross pond water demand,1.7–2.5 m³ d⁻¹,Calculated
+"Blue water per kg protein, dry season","3,500–5,200 L",Calculated
+"Blue water per kg protein, annual mean","1,000–2,700 L",Calculated

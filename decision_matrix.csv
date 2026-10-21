@@ -1,0 +1,8 @@
+criterion_id,criterion,weight,DA,DSW,DPF,DBBF
+C1,Livestock-system compatibility,0.25,1,1,1,5
+C2,Circular resource integration,0.20,4,4,3,5
+C3,Feed-production relevance,0.15,3,4,4,5
+C4,Water and site suitability,0.10,2,3,3,3
+C5,Operational simplicity,0.10,2,2,3,3
+C6,Resource-recovery potential,0.10,4,5,3,5
+C7,Scalability and market potential,0.10,4,4,3,5

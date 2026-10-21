@@ -1,0 +1,10 @@
+scheme,DA,DSW,DPF,DBBF,first_ranked
+Baseline weights,2.70,3.05,2.65,4.60,DBBF
+Equal weights,2.86,3.29,2.86,4.43,DBBF
+"C1 removed, rescaled",3.27,3.73,3.20,4.47,DBBF
+"C2 removed, rescaled",2.38,2.81,2.56,4.50,DBBF
+"C3 removed, rescaled",2.65,2.88,2.41,4.53,DBBF
+"C4 removed, rescaled",2.78,3.06,2.61,4.78,DBBF
+"C5 removed, rescaled",2.78,3.17,2.61,4.78,DBBF
+"C6 removed, rescaled",2.56,2.83,2.61,4.56,DBBF
+"C7 removed, rescaled",2.56,2.94,2.61,4.56,DBBF

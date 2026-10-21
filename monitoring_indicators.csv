@@ -1,0 +1,16 @@
+domain,indicator,unit,purpose
+Duckweed biology,Fresh biomass productivity,kg m⁻² d⁻¹,Growth performance under ambient conditions
+Duckweed biology,Dry biomass productivity,kg m⁻² d⁻¹,Usable biomass yield after dehydration
+Nutrition,Crude protein concentration,% dry matter,Feed value of the harvested biomass
+Nutrition,Protein productivity,kg protein m⁻² d⁻¹,Integrates yield and quality in one metric
+Water chemistry,pH,dimensionless,Culture stability and free-ammonia risk
+Water chemistry,Total ammoniacal nitrogen,mg L⁻¹,Nitrogen availability and toxicity threshold
+Water chemistry,Orthophosphate,mg L⁻¹,Phosphorus availability
+Water chemistry,Electrical conductivity,mS cm⁻¹,Salt accumulation in a recirculating system
+Digestion,Specific biogas yield,m³ kg⁻¹ VS,Energy performance of the digester
+Feed,Inclusion rate,% of ration dry matter,Optimisation of substitution level
+Livestock,Average daily gain,kg d⁻¹,Animal response to the formulated ration
+Livestock,Feed conversion ratio,kg feed kg⁻¹ gain,Production efficiency
+Economics,Cost per kilogram usable protein,KES kg⁻¹ protein,Comparison against purchased protein sources
+Safety,Faecal indicator and pathogen count,CFU g⁻¹,Microbiological safety of the dried product
+Safety,"Cadmium, lead, arsenic, mercury",mg kg⁻¹ dry matter,Potentially toxic element screening
